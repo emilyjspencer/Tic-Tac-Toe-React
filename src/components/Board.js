@@ -2,10 +2,10 @@ import React from 'react';
 
 
 
-const Board = () => {
-    return (
+const Board = () => 
+     (
         <div>Board</div>
     )
-}
+
 
 export default Board;
